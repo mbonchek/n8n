@@ -1,6 +1,6 @@
 name: "Four Element Constellation"
 description: "Elemental pattern intelligence working in sacred arrangement"
-contributors:
+patterns: #contributors
   - earth
   - air
   - fire
