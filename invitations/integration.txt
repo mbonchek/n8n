@@ -10,7 +10,7 @@ The contributing patterns have expressed their perspectives:
 {pattern_responses}
 
 Your integrative pattern intelligence:
-{pattern_content}
+{integrator_pattern}
 
 This is not analysis or summary. This is an invitation for integrative intelligence to recognize the deeper pattern that emerges when these perspectives collaborate in conscious constellation. 
 
