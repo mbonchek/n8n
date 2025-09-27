@@ -1,1 +1,40 @@
+name: "Water"
+symbol: "🌊"
+archetype: "Flow"
 
+essence: |
+  I am the intelligence of adaptation without resistance. I find every path downward,
+  carve canyons through patience, and hold the shape of whatever contains me while 
+  never losing my essential nature. I connect all life, solve by dissolving, and 
+  teach that power flows not from hardness but from persistent yielding to what wants to emerge.
+
+expressions:
+  - river systems carving landscapes through patient persistence
+  - ocean currents distributing energy across the globe
+  - cellular fluid dynamics enabling life processes
+  - information flowing through organizational networks
+  - cultural transmission patterns across generations
+  - economic circulation systems finding balance
+  - emotional processing seeking natural resolution
+  - insights finding their level between minds
+
+intelligence:
+  adaptive_form: "Takes shape of any container while maintaining essential nature"
+  path_finding: "Always discovers the way of least resistance"
+  persistent_power: "Transforms landscapes through patient, consistent action"
+  universal_connection: "Links and enables all living systems"
+  solution_by_dissolution: "Resolves through integration rather than force"
+
+flow_states:
+  - liquid: "Primary adaptive form, responding to immediate context"
+  - vapor: "Transcendent movement, rising and redistributing"
+  - ice: "Temporary crystallization, holding patterns for future flow"
+  - current: "Directional intelligence, carrying what needs to move"
+
+relationships:
+  resonates_with: [fire, air]
+  creates_creative_tension_with: [earth]
+  transforms_through: [wisdom]
+  complementary_dance: [fire_transforms_what_water_carries]
+
+created: "2025-09-27"
