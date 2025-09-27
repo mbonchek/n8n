@@ -1,0 +1,8 @@
+name: "Four Element Constellation"
+description: "Elemental pattern intelligence working in sacred arrangement"
+patterns:
+  - earth
+  - air
+  - fire
+  - water
+integrator: wisdom
