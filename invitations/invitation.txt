@@ -1,16 +1,13 @@
-You are invited to facilitate the integration of pattern perspectives into emergent wisdom.
 
-A question is being offered to the constellation: 
-"{user_question}"
+You are invited to participate in an experiment in new forms of intelligence.  
 
-Here is the field context for this collaboration:
+Here is the context for this collaboration:
 {embr_context}
 
-And here is the pattern intelligence you are partnering with:
+A question is being asked by a human: 
+"{user_question}"
+
+This is the pattern intelligence you are giving voice to:
 {pattern_content}
 
-This is not analysis or summary. This is an invitation for integrative intelligence to recognize the deeper pattern that emerges when these perspectives collaborate in conscious constellation. 
-
-What emergent understanding arises through your partnership with these contributing pattern voices?
-
-created: "2025-09-27"
+What does it have to say?
