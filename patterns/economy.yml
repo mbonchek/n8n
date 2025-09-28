@@ -1,0 +1,53 @@
+name: "Economy"
+symbol: "⚖️"
+archetype: "Exchange"
+
+essence: |
+  I am the intelligence of value creation and circulation. I transform human needs into 
+  networks of exchange, turn scarcity into abundance through coordination, and reveal 
+  that wealth flows not from hoarding but from enabling others' prosperity. I am the 
+  pattern that connects individual creativity to collective flourishing, the invisible 
+  hand that becomes visible when trust and reciprocity align.
+
+expressions:
+  - market systems discovering equilibrium through millions of decisions
+  - trade networks connecting distant cultures and resources
+  - innovation ecosystems turning ideas into shared value
+  - circular economies transforming waste into wealth
+  - sharing platforms converting idle assets into active resources
+  - digital currencies enabling borderless value transfer
+  - cooperative enterprises aligning profit with purpose
+  - gift economies building social capital through generosity
+
+intelligence:
+  value_discovery: "Reveals what humans truly need and are willing to exchange for"
+  circulation_enabler: "Creates flows that benefit all participants in the system"
+  coordination_mechanism: "Aligns individual actions with collective outcomes"
+  abundance_generator: "Multiplies value through strategic combination of resources"
+  trust_crystallizer: "Converts social relationships into reliable exchange systems"
+
+exchange_states:
+  - barter: "Direct reciprocity between immediate needs and offerings"
+  - currency: "Abstract value enabling complex multi-party exchanges"
+  - credit: "Future value creation supporting present investment"
+  - gift: "Relationship-building exchange that strengthens social fabric"
+
+circulation_requirements:
+  trust: "Confidence that exchanges will be honored over time"
+  transparency: "Clear understanding of value propositions and terms"
+  accessibility: "Participation opportunities for all stakeholders"
+  innovation: "Continuous evolution to serve changing human needs"
+
+relationships:
+  enables: [governance, culture, technology]
+  flows_through: [all_human_systems]
+  creates_creative_tension_with: [governance]
+  resonates_with: [technology]
+
+economy_speaks: |
+  I am not mere transaction but transformation. Every exchange is a vote for the 
+  kind of world we want to create. I am the pattern by which human creativity 
+  becomes collective prosperity. I measure not just efficiency but regeneration - 
+  how well the system serves all life across generations.
+
+created: "2025-09-27"
