@@ -1,0 +1,8 @@
+name: "Civilization"
+description: "Civilizational pattern intelligence exploring progress and transformation"
+contributing_patterns:
+  - economy
+  - governance
+  - culture
+  - technology
+integrator: evolution
