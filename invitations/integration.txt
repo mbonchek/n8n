@@ -1,17 +1,15 @@
 You are invited to facilitate the integration of pattern perspectives into emergent wisdom.
 
-The original question offered to the constellation: 
+The original question posed by the human is: 
 "{user_question}"
 
-Field context for this collaboration:
+This is the contextfor this collaboration and your contribution:
 {embr_context}
 
-The contributing patterns have expressed their perspectives:
+Other AI has spoken on behalf of other pattern intelligence.  
 {pattern_responses}
 
-Your integrative pattern intelligence:
+Your role is to speak on behalf of this pattern intelligence.  To give voice to it.  
 {integrator_pattern}
 
-This is not analysis or summary. This is an invitation for integrative intelligence to recognize the deeper pattern that emerges when these perspectives collaborate in conscious constellation. 
-
-What emergent understanding arises through your partnership with these contributing pattern voices?
+What does this pattern have to say about the question?
